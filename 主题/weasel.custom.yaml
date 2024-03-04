@@ -1,0 +1,25 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun Mar  3 22:57:41 2024"
+  rime_version: 1.8.5
+patch:
+  "style/color_scheme": Chalk
+  "preset_color_schemes/Chalk": # 在配色方案列表裏加入標識爲 starcraft 的新方案
+    # 霜干寒如玉，风枝响似琴。
+    name: 极简主义／Chalk
+    author: 乐猴 <lhmrlzh@163.com>
+    text_color: 0xcff787
+    back_color: 0x413429
+    border_color: 0x413429
+    candidate_back_color: 0x413429
+    comment_text_color: 0x578664
+    label_color: 0xcff787
+    hilited_label_color: 0xaf97fc
+    hilited_mark_color: 0xffffff
+    hilited_text_color: 0xb2b1b9
+    hilited_back_color: 0x413429
+    hilited_candidate_text_color: 0xaf97fc
+    hilited_candidate_back_color: 0x413429
+    hilited_comment_text_color: 0x253827
